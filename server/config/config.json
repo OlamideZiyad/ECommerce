@@ -1,0 +1,21 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Admin@24",
+    "database": "escommerce",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+   "username": "root",
+    "password": "Admin@24",
+    "database": "escommerce",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+ "username": "root",
+    "password": "Admin@24",
+    "database": "escommerce",
+    "host": "localhost",
+    "dialect": "mysql"
+}
